@@ -6,4 +6,14 @@ public class Hero {
 
 		System.out.println("jo mai bolta hu o me karta hu");
 	}
+	
+	public void m1(){
+	
+	
+	
+	
+		
+		System.out.println("m1 method");
+	
+	}
 }
