@@ -5,6 +5,13 @@ public class Hero {
 	public static void main(String[] args) {
 
 		System.out.println("jo mai bolta hu o me karta hu");
+
+		Hero h = new Hero();
+		h.m1();
+		h.m2();
+		h.m3();
+		h.m4();
+		h.m5();
 	}
 
 	public void m1() {
