@@ -25,4 +25,16 @@ public class Hero {
 
 	}
 
+	public void m4() {
+
+		System.out.println("KGF movie");
+
+	}
+
+	public void m5() {
+
+		System.out.println("Mohabette");
+
+	}
+
 }
